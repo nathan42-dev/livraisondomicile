@@ -51,3 +51,21 @@ section.top-page {
     margin-top: 50px;
 
 }
+
+.button {
+    background-color: #73b504;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button-annuler {
+    background-color: red;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
